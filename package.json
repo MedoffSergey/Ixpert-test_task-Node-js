@@ -10,7 +10,7 @@
   "dependencies": {
     "core-util-is": "^1.0.2",
     "express": "^4.17.1",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "pjson": "^1.0.9",
     "pug": "^2.0.4",
     "request": "^2.88.0"
